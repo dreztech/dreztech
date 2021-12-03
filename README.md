@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-my name is drez, yes the original dangler.
+my name is drez, the original dangler.
